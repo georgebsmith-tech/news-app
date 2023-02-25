@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Prove that: <code>George = Goat</code> 10marks.
+          <div>Welcome to my page!!!</div>
         </p>
       </header>
     </div>
